@@ -6,7 +6,7 @@ git --version                               # confirm install
 git config --global user.name  "Your Name"
 git config --global user.email "you@ou.edu"
 git config --global init.defaultBranch main
-touch .gitignore                            # list files/folders to skip
+touch .gitignore                            # list files/folders to skip 
 ```
 
 ---
